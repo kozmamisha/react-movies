@@ -1,0 +1,70 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "year": 2022,
+      "poster": "https://yts.mx/assets/images/movies/demonic_christmas_tree_2022/medium-cover.jpg",
+      "title": "Demonic Christmas Tree",
+      "summary": "On Christmas Eve, a widow casts a spell to resurrect her executed husband. However, when the spell goes wrong, the husband is brought back as an Evil Christmas Tree and is hell-bent on getting revenge on the one who caused his execution.",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ]
+    },
+    {
+      "id": 2,
+      "year": 1963,
+      "poster": "https://yts.mx/assets/images/movies/alone_on_the_pacific_1963/medium-cover.jpg",
+      "title": "Alone on the Pacific",
+      "summary": "Kenichi Horie is determined to challenge his family, the law and the nature crossing the Pacific to America in a small sailboat. Despite his careful planning many unforeseen events will test his determination.",
+      "genres": [
+        "Adventure"
+      ]
+    },
+    {
+      "id": 3,
+      "year": 1962,
+      "poster": "https://yts.mx/assets/images/movies/the_graceful_brute_1962/medium-cover.jpg",
+      "title": "The Graceful Brute",
+      "summary": "A greedy, materialistic family attempts to cover-up the embezzlement committed by the son while keeping their other schemes active. They discover there are other, equally conniving players involved.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": 4,
+      "year": 1963,
+      "poster": "https://yts.mx/assets/images/movies/bamboo_doll_of_echizen_1963/medium-cover.jpg",
+      "title": "Bamboo Doll of Echizen",
+      "summary": "Haunting melodrama focuses on a young bamboo worker who takes his father's prostitute as his wife.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": 5,
+      "year": 2022,
+      "poster": "https://yts.mx/assets/images/movies/mahmood_2022/medium-cover.jpg",
+      "title": "Mahmood",
+      "summary": "Through the voice of Alessandro, the docufilm tells the story of how he became Mahmood. From his launch at Sanremo to being a global superstar. An intimate film made up of solitary moments, important relationships and huge crowds.",
+      "genres": [
+        "Biography",
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "id": 6,
+      "year": 2021,
+      "poster": "https://yts.mx/assets/images/movies/hockeyland_2021/medium-cover.jpg",
+      "title": "Hockeyland",
+      "summary": "Minnesota is the heartland of US hockey, creating more skaters-on the local rinks and in the NHL-than any other state. Here, the senior boys of rival towns-one an emerging dynasty, the other with a fabled past-face down uncertain futures as they skate for a last chance to etch their names into local lore. Where Texas football has Friday Night Lights, Minnesota high school hockey has Hockeyland.",
+      "genres": [
+        "Documentary",
+        "Sport"
+      ]
+    }
+  ]
+}
